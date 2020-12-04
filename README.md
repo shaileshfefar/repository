@@ -1,3 +1,3 @@
 # repository
 A repository for tutorial purpose...
-PHP, Laravel, NodeJS and ExpressJS
+PHP, Laravel, NodeJS, ExpressJS and MySQL.

@@ -10,5 +10,5 @@ This is a Employee CRUD API. CRUD means Create, Read, Update, and Delete. My API
 5. DELETE /api/employee/{id} will delete a employee record by referencing its id and will be accepting DELETE requests.
 The Employee record will only contain first_name and last_name as details. When you are done developing these endpoints you will use the endpoints to develop an actual employee records application that will make use of the API. Validation was added in cases like create and update employee both fields like first_name and last_name are required .
 
-For demo to get all employees record as per step 1 please [click here](https://nodejs.shaileshfefar.com/api/employees target="_blank")
+For demo to get all employees record as per step 1 please [click here](https://nodejs.shaileshfefar.com/api/employees "NodeJS REST API Output")
 and so on…

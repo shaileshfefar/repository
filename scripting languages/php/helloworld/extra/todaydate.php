@@ -1,3 +1,4 @@
 <?php
-echo "Today's date is:" . date("Y/m/d");
+	// Print todat date
+	echo "Today's date is:" . date("Y/m/d");
 ?>

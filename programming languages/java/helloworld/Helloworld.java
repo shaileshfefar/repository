@@ -1,6 +1,6 @@
 /*
-	@Program name: Print Helloworld! How are you? on console
-	@Date: 05/12/2020
+	@Program name: Print "Helloworld! How are you?" on console
+	@Date: 05/12/2012
 	@Author: Shailesh Fefar
 	@File name: Helloworld.java
 	@Licence Type: MIT License

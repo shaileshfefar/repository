@@ -1,9 +1,11 @@
 // Definition section
 /*
-  @definition: Helloworld demo program
-  @version:    Turbo C++ 3.0
-  @author:     Shailesh Fefar
-  @date/time:  06/02/2012
+	@Program name: Print Helloworld! How are you? on console
+	@Date: 05/12/2012
+	@Author: Shailesh Fefar
+	@File name: helloworld.cpp
+	@Version: Turbo C++ 3.0
+	@Licence Type: MIT License
 */
 
 // Link section

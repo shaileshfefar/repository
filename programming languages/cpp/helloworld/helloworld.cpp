@@ -1,6 +1,6 @@
 // Definition section
 /*
-	@Program name: Print Helloworld! How are you? on console
+	@Program name: Print "Helloworld! How are you?" on console
 	@Date: 05/12/2012
 	@Author: Shailesh Fefar
 	@File name: helloworld.cpp

@@ -30,7 +30,7 @@ public class Calculator
       choice=sc.nextInt();
       switch(choice)
       {
-        // Addtion
+        // Addtion operation
         case 1:
           System.out.print("Enter value1:");
           value1=sc.nextFloat();
@@ -39,7 +39,7 @@ public class Calculator
           result=value1+value2;
           System.out.print("Addition of "+value1+" and "+value2+" = "+result+"\n");
           break;
-        // Subtraction
+        // Subtraction operation
         case 2:
           System.out.print("Enter value1:");
           value1=sc.nextFloat();
@@ -48,7 +48,7 @@ public class Calculator
           result=value1-value2;
           System.out.print("Subtraction of "+value1+" and "+value2+" = "+result+"\n");
           break;
-        // Multiplication
+        // Multiplication operation
         case 3:
           System.out.print("Enter value1:");
           value1=sc.nextFloat();
@@ -57,7 +57,7 @@ public class Calculator
           result=value1*value2;
           System.out.print("Multiplication of "+value1+" and "+value2+" = "+result+"\n");
           break;
-        // Division
+        // Division operation
 	    case 4:
           System.out.print("Enter value1:");
           value1=sc.nextFloat();
